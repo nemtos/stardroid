@@ -1,0 +1,7 @@
+.idea
+.settings
+*.iml
+*.class
+**/bin/*
+**/gen/*
+out
